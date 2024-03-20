@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kishore-Anthony
-- 👀 I’m interested in Google app development (KOTLIN)/Huawei app development
-- 🌱 I’m currently learning KOTLIN language also JAVA
+- 👀 I’m want to become Java developer
+- 🌱 I’m currently learning Springboot and Microservices using Java
 - 📫 How to reach me E-mail: kishoretony112@gmail.com
 
 <!---
